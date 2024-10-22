@@ -26,24 +26,3 @@ Both models are great candidates for tackling the binary classification task, an
 
 ## Evaluation
 Submissions are evaluated based on **Accuracy**, which is the percentage of correct predictions over the total predictions made.
-
-## Getting Started
-1. Download the dataset from the [competition page](https://www.kaggle.com/competitions/platesv2/data).
-2. Start by building a simple CNN model or using a pretrained model such as MobileNetV2.
-3. Train and validate your model on the training dataset, and optimize hyperparameters.
-4. Submit your predictions to Kaggle for evaluation.
-
-## Example Notebooks
-To get started with your solution, here are some Kaggle notebooks that may help:
-- [Plates Images Classification with MobileNetV2](https://www.kaggle.com/code/mksaad/plates-images-classification-mobilenetv2)
-- [Image Classification with DINOv2](https://www.kaggle.com/competitions/platesv2/overview)
-
-## Submission Instructions
-1. Make predictions on the test set.
-2. Submit a CSV file with the predicted class (Clean/Dirty) for each image.
-3. Your score will be based on the accuracy of your predictions.
-
-## Acknowledgments
-Special thanks to the Kaggle community for their support and resources in making this competition engaging and educational.
-
-Good luck, and happy coding!
